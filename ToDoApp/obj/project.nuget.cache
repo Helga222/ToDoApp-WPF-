@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Re0PqlquE9JW5V4C6UIPg+vO5EpCgO3rh4++Gl//USxO3C39hu68u7roGposQ8crlZv2N372HoGe3LofrbfaDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Olga\\source\\repos\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olga\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
